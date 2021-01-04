@@ -1,0 +1,28 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dom-parser": "^0.1.6",
+    "express": "^4.17.1",
+    "google-search-scraper": "^0.1.0",
+    "http": "0.0.1-security",
+    "moment": "^2.29.1",
+    "mssql": "^6.2.3",
+    "node-async-loop": "^1.2.2",
+    "puppeteer": "^5.3.1",
+    "puppeteer-core": "^5.3.1",
+    "queue": "^6.0.1",
+    "socket.io": "^3.0.3"
+  }
+}
